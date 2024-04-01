@@ -1,0 +1,2 @@
+# sduhub
+SDU university app
